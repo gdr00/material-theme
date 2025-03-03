@@ -1,10 +1,15 @@
 {
-  "name": "material-theme",
-  "displayName": "Material Theme",
-  "description": "material theme for vs code",
-  "version": "0.0.1",
+  "name": "enhanced-material-theme",
+  "displayName": "Enhanced Material Theme",
+  "description": "A theme based on Material Theme with some enhancements",
+  "version": "1.0.0",
+  "publisher": "gdr00",
   "engines": {
     "vscode": "^1.97.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gdr00/material-theme"
   },
   "categories": [
     "Themes"
@@ -18,5 +23,16 @@
       }
     ]
   },
+  "keywords": [
+    "theme",
+    "dark",
+    "dark theme",
+    "material icons",
+    "material theme",
+    "nice theme",
+    "vibrant color theme",
+    "material",
+    "enhanced"
+  ],
   "packageManager": "yarn@1.22.22+sha512.a6b2f7906b721bba3d67d4aff083df04dad64c399707841b7acf00f6b133b7ac24255f2652fa22ae3534329dc6180534e98d17432037ff6fd140556e2bb3137e"
 }

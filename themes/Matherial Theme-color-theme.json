@@ -1,24 +1,5 @@
 {
-  "name": "enhanced-material-theme",
-  "displayName": "Enhanced Material Theme",
-  "description": "A theme based on Material Theme with some enhancements",
-  "version": "1.0.0",
-  "publisher": "gdr00",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/gdr00/material-theme"
-  },
-  "keywords": [
-    "theme",
-    "dark",
-    "dark theme",
-    "material icons",
-    "material theme",
-    "nice theme",
-    "vibrant color theme",
-    "material",
-    "enhanced"
-  ],
+  "name": "Matherial Theme",
   "type": "dark",
   "semanticHighlighting": true,
   "semanticTokenColors": {
