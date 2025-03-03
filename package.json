@@ -1,0 +1,21 @@
+{
+  "name": "material-theme",
+  "displayName": "Material Theme",
+  "description": "material theme for vs code",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.97.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Matherial Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Matherial Theme-color-theme.json"
+      }
+    ]
+  }
+}
