@@ -15,6 +15,50 @@
   },
   "tokenColors": [
     {
+      "name": "Text",
+      "scope": "text",
+      "settings": {
+        "foreground": "#F7F1FFcc"
+      }
+    },
+    {
+      "name": "Variable other definition",
+      "scope": "variable.other.definition",
+      "settings": {
+        "foreground": "#F7F1FFcc"
+      }
+    },
+    {
+      "name": "Support constant",
+      "scope": "support.constant",
+      "settings": {
+        "foreground": "#b17ae0"
+      }
+    },
+    {
+      "name": "Latex section",
+      "scope": "entity.name.section.latex",
+      "settings": {
+        "foreground": "#FC6666"
+      }
+    },
+    {
+      "name": "Latex variable",
+      "scope": "variable.parameter.function.latex",
+      "settings": {
+        "foreground": "#b61060",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "Latex variable",
+      "scope": "variable.parameter.function.latex",
+      "settings": {
+        "foreground": "#b61060",
+        "fontStyle": "italic"
+      }
+    },
+    {
       "name": "unison punctuation",
       "scope": "punctuation.definition.delayed.unison,punctuation.definition.list.begin.unison,punctuation.definition.list.end.unison,punctuation.definition.ability.begin.unison,punctuation.definition.ability.end.unison,punctuation.operator.assignment.as.unison,punctuation.separator.pipe.unison,punctuation.separator.delimiter.unison,punctuation.definition.hash.unison",
       "settings": {
@@ -52,6 +96,13 @@
     {
       "name": "variable.parameter.function.language.special.self.python",
       "scope": "variable.parameter.function.language.special.self.python",
+      "settings": {
+        "foreground": "#ff8f00"
+      }
+    },
+    {
+      "name": "variable.parameter.function",
+      "scope": "variable.parameter.function",
       "settings": {
         "foreground": "#ff8f00"
       }
@@ -701,7 +752,7 @@
       "name": "Support",
       "scope": "support.function",
       "settings": {
-        "foreground": "#ffffff"
+        "foreground": "#1194ff"
       }
     },
     {
@@ -778,7 +829,7 @@
       "name": "Tags",
       "scope": "entity.name.tag",
       "settings": {
-        "foreground": "#b66060"
+        "foreground": "#b17ae0"
       }
     },
     {
@@ -825,6 +876,7 @@
         "foreground": "#1194ff"
       }
     },
+
     {
       "name": "Units",
       "scope": "keyword.other.unit",
@@ -836,7 +888,8 @@
       "name": "Bold",
       "scope": "markup.bold,todo.bold",
       "settings": {
-        "foreground": "#93bee2"
+        "foreground": "#93bee2",
+        "fontStyle": "bold"
       }
     },
     {
