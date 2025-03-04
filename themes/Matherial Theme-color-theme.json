@@ -51,14 +51,6 @@
       }
     },
     {
-      "name": "Latex variable",
-      "scope": "variable.parameter.function.latex",
-      "settings": {
-        "foreground": "#b61060",
-        "fontStyle": "italic"
-      }
-    },
-    {
       "name": "unison punctuation",
       "scope": "punctuation.definition.delayed.unison,punctuation.definition.list.begin.unison,punctuation.definition.list.end.unison,punctuation.definition.ability.begin.unison,punctuation.definition.ability.end.unison,punctuation.operator.assignment.as.unison,punctuation.separator.pipe.unison,punctuation.separator.delimiter.unison,punctuation.definition.hash.unison",
       "settings": {
@@ -843,7 +835,7 @@
       "name": "Attribute IDs",
       "scope": "entity.other.attribute-name.id",
       "settings": {
-        "fontStyle": "normal",
+        "fontStyle": "",
         "foreground": "#1194ff"
       }
     },
@@ -851,7 +843,7 @@
       "name": "Attribute class",
       "scope": "entity.other.attribute-name.class.css",
       "settings": {
-        "fontStyle": "normal",
+        "fontStyle": "",
         "foreground": "#93bee2"
       }
     },
@@ -1879,7 +1871,6 @@
     "editorCursor.foreground": "#b3b4b2",
     "editorCursor.background": "#090028",
     "editor.selectionBackground": "#333551",
-    "editor.inactiveSelectionBackground": "#3a3d41",
     "editorWhitespace.foreground": "#fbfff829",
     "editor.selectionHighlightBackground": "#ffadad26",
     "editor.selectionHighlightBorder": "#00000000",
