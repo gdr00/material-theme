@@ -1,16 +1,21 @@
-# material-theme
+# Material Theme
 
-## Working with Markdown
+## Enjoy your theme!
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+Bothered by your old standard theme?
 
-- Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-- Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-- Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+This might be the right one for you, different features and colors to better higlight the various keywords in different languages.
 
-## For more information
+## Installation
 
-- [Visual Studio Code&#39;s Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-- [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+Open command paette (Ctrl+Shift+P) &#8594; User Settings(json) &#8594; **"workbench.productIconTheme"**: **"enhanced-material-theme"**
+
+Else
+
+User Settings (UI) search for "Workbench: Color Theme" and set it to "Enhanced Matherial Theme"
+
+### Compatibility
+
+For the best experience we suggest using [material icon theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) from Philipp Kief
 
 **Enjoy!**
