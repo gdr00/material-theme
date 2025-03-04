@@ -2,7 +2,7 @@
   "name": "enhanced-material-theme",
   "displayName": "Enhanced Material Theme",
   "description": "A theme based on Material Theme with some enhancements",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "publisher": "gdr00",
   "engines": {
     "vscode": "^1.97.0"
