@@ -1852,7 +1852,7 @@
     "menubar.selectionForeground": "#ffffff",
     "menubar.selectionBackground": "#292c3e",
     "menubar.selectionBorder": "#e60f0f00",
-    "menu.foreground": "#8d9dbc",
+    "menu.foreground": "#fafafacc",
     "menu.background": "#292c3e",
     "menu.selectionForeground": "#ffffff",
     "menu.selectionBackground": "#303951",
