@@ -19,9 +19,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Matherial Theme",
+        "label": "Enhanced Material Theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/Matherial Theme-color-theme.json"
+        "path": "./themes/enhanced-material-theme.json"
       }
     ]
   },
