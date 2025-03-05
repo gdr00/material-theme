@@ -2036,7 +2036,7 @@
     "editorGroup.emptyBackground": "#292c3e",
     "panelSection.border": "#80808000",
     "statusBarItem.activeBackground": "#FFFFFF25",
-    "settings.headerForeground": "#54ffa7dd",
+    "settings.headerForeground": "#0097fb",
     "settings.focusedRowBackground": "#ffffff07",
     "walkThrough.embeddedEditorBackground": "#00000050",
     "breadcrumb.activeSelectionForeground": "#b1e2ff",
