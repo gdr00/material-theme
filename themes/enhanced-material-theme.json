@@ -504,6 +504,13 @@
       }
     },
     {
+      "name": "entity.name.function.definition.cpp",
+      "scope": "entity.name.function.definition.cpp",
+      "settings": {
+        "fontStyle": "bold italic"
+      }
+    },
+    {
       "name": "python parameter",
       "scope": "variable.parameter.function.language.python",
       "settings": {
