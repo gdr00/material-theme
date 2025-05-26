@@ -504,8 +504,8 @@
       }
     },
     {
-      "name": "entity.name.function.definition.cpp",
-      "scope": "entity.name.function.definition.cpp",
+      "name": "Cpp functions",
+      "scope": "entity.name.function.definition.cpp,entity.name.function.call.cpp",
       "settings": {
         "fontStyle": "bold italic"
       }
